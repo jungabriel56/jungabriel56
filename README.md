@@ -2,8 +2,8 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jungabriel56&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark) (title_color: dracula)"
+    srcset="https://github-readme-stats.vercel.app/api?username=jungabriel56&show_icons=true&theme=dark&title-color=A0153E"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=jungabriel56&show_icons=true"
