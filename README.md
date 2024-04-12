@@ -12,4 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jungabriel56&show_icons=true" />
 </picture>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungabriel56&layout=compact&theme=dark)
+
 
