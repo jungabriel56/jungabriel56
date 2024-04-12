@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Jun
 
 <!--
 **jungabriel56/jungabriel56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
